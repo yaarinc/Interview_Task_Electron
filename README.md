@@ -22,7 +22,7 @@ Create an desktop app with HTML/CSS, JavaScript and Electron.js to read Wikipedi
 	|           parsed                   |                                    |
 	|                                    |             view                   |
 	|          contents                  |                                    |
-	|                                    |             	of                    |
+	|                                    |              of                    |
 	|                                    |                                    |
 	|                                    |             the                    |
 	|      --------------   -------      |                                    |
