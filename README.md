@@ -32,7 +32,7 @@ Create an desktop app with HTML/CSS, JavaScript and Electron.js to read Wikipedi
 	|                                    |                                    |
 	---------------------------------------------------------------------------
 
-#### Functionality Requirements:
+#### Functionality Requirements
 	1. Parse Page Content:
 		- Input a url of a Wikipedia page in the omnibox -> browser displays the corresponding page.
 		- When browser view updates, get the content of the page.
