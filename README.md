@@ -41,6 +41,6 @@ Create an desktop app with HTML/CSS, JavaScript and Electron.js to read Wikipedi
 
 	2. Scroll Browser (Stretch):
 		- Create a number field (pos & neg) and a [ Scroll ] button
-		- When the button is clicked, automatically scroll the browser +/- X pixels.
+		- When the button is clicked, automatically scroll the browser +/- X pixels in y-direction.
 
 
