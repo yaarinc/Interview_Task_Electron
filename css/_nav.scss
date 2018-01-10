@@ -1,0 +1,60 @@
+$buttons_Width: 180px;
+body {
+    height: 100%;
+    display: block;
+}
+.common-buttons
+{
+    float: left;
+    display: block;
+    width: $buttons_Width / 6;
+    font-size: 20px;
+    color: $white;
+    i 
+    {
+        cursor: pointer;
+    }
+}
+#navigation 
+{
+    width: 100%;
+    height: 28px;
+    background: $blue;
+    display: block;
+    top: 0;
+    left: 0;
+    border-bottom: 2px solid darken($blue, 10%);
+    box-sizing: border-box;
+    padding-top: 3px;
+    #back
+    {
+        @extend .common-buttons;
+    }
+    #forward
+    {
+        @extend .common-buttons;
+    }
+    #refresh
+    {
+        @extend .common-buttons;
+    }
+    #omnibox
+    {
+        float: left;
+        display: block;
+        width: calc(100% - #{$buttons_Width});
+        color: #333333;
+        input
+        {
+            border: none;
+            outline: none;
+            height: 18px;
+            width: 90%;
+            border-radius: 2px;
+            padding-left: 1px;
+            color: $black;
+            font-family: monospace;
+            margin-top: -1px;
+        }
+    }
+}
