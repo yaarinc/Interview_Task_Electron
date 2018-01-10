@@ -1,10 +1,12 @@
 
 ## To Use
 
+Install dependencies
 ```
-# Install dependencies
 npm install
-# Run the app
+```
+Run the app
+```
 npm start
 ```
 
