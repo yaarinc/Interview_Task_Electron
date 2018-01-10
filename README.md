@@ -1,8 +1,6 @@
 
 ## To Use
 
-To fork this repository
-
 ```
 # Install dependencies
 npm install
