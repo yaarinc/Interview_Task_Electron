@@ -12,7 +12,7 @@ npm start
 
 ## To Do
 
-Create an desktop app with HTML/CSS, JavaScript and Electron.js to read Wikipedia page and parse the paragraph.
+Create an desktop app with HTML/CSS, JavaScript and Electron.js to read Wikipedia page and parse the paragraph content.
 
 #### UI Requirements
 	---------------------------------------------------------------------------
